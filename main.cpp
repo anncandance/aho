@@ -2,7 +2,7 @@
 #include <string>
 #include <map>
 using namespace std ;
-
+//testing github on clion
 map<int, string> create_wordlist(int n){
     map<int, string> wordlist;
     string word;
