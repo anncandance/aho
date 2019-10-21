@@ -12,7 +12,7 @@
 std::map<int, std::string> create_wordlist(int n);
 
 
-// как бы чаща
+// как бы бор
 node* create_thicket(std::map<int, std::string> wordlist);
 
 //далее все по рецепту:
